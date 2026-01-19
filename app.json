@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Biz Connect",
+    "slug": "biz-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2F5496"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.James-mwangi-creator.bizconnect"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2F5496"
+      },
+      "package": "com.James-mwangi-creator.bizconnect"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
